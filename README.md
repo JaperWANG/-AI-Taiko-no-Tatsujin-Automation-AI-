@@ -58,8 +58,8 @@
 
 **2. 下載專案**
 ```bash
-git clone [https://github.com/](https://github.com/)[您的GitHub使用者名稱]/[您的專案儲存庫名稱].git
-cd [您的專案儲存庫名稱]
+git clone [https://github.com/](https://github.com/)[JasperWANG]/[-AI-Taiko-no-Tatsujin-Automation-AI-].git
+cd [-AI-Taiko-no-Tatsujin-Automation-AI-]
 ```
 
 **3. 建立虛擬環境與安裝依賴套件**

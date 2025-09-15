@@ -12,7 +12,7 @@
 
 ## 效果展示 (Demo)
 
-*
+*[![太鼓達人 AI 運作展示](https://img.youtube.com/vi/th5lPIBCkNQ/0.jpg)](https://www.youtube.com/watch?v=th5lPIBCkNQ)
 
 ## 核心功能 (Features)
 
